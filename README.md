@@ -1,12 +1,12 @@
-# Hi, I'm Lyna Ben Abderahmen 👋
+# Hi, I'm Lyna Ben Abderahmen 
 
-🎓 2nd Year Applied Computer Science & AI Student  
-📍 Sousse, Tunisia | Pristini School of AI  
-🔐 Cybersecurity Enthusiast | 🤖 AI & Deep Learning Explorer  
+ 2nd Year Applied Computer Science & AI Student  
+ Sousse, Tunisia | Pristini School of AI  
+ Cybersecurity Enthusiast |  AI & Deep Learning Explorer  
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a passionate AI and software engineering student with hands-on experience 
 in machine learning, deep learning, and cybersecurity. I love building things 
@@ -14,7 +14,7 @@ that solve real problems and continuously push myself to learn beyond the classr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -24,24 +24,24 @@ that solve real problems and continuously push myself to learn beyond the classr
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🏅 **Fundamentals of Deep Learning** — NVIDIA (February 2025)
-- 🏅 **Building AI-Based Cybersecurity Pipelines** — NVIDIA (April 2025)
+-  **Fundamentals of Deep Learning** — NVIDIA (February 2025)
+-  **Building AI-Based Cybersecurity Pipelines** — NVIDIA (April 2025)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🏋️ Pilates Studio App | Console management system | C |
-| 🚁 Police Drone System | Face detection with police alerts | Python, AI |
-| 🏋️ Pilates Studio Management System | Advanced OOP management system | C++ |
+|  Pilates Studio App | Console management system | C |
+|  Police Drone System | Face detection with police alerts | Python, AI |
+|  Pilates Studio Management System | Advanced OOP management system | C++ |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Lyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leena-lyna&show_icons=true&theme=tokyonight)
 
